@@ -1,2 +1,2 @@
 # Tasks
-Completed Tasks of given by TrigenSoft
+Completed Tasks given by TrigenSoft
